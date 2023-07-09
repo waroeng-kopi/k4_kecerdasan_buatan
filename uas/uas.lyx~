@@ -1,0 +1,837 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+NAMA : ADAM RAHMAT ILAHI
+\end_layout
+
+\begin_layout Standard
+NPM : 13.2021.1.01030
+\end_layout
+
+\begin_layout Standard
+UAS KECERDASAN BUATAN (P)
+\end_layout
+
+\begin_layout Enumerate
+Ulasan dengan tema :
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Fuzzy Inference System Algorithm
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\series bold
+Judul
+\series default
+: A New Monotone Fuzzy Rule Relabeling Framework With Application to Failure
+ Mode and Effect Analysis Methodology.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Authors
+\series default
+: 
+\emph on
+Lie Meng Pang, Kai Meng Tay, Chee Peng Lim, and Hisao Ishibuchi.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Journal
+\series default
+: IEEE Access.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Volume
+\series default
+: 8
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Pages
+\series default
+: 144908-144930
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Tahun
+\series default
+: 2022
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+DOI
+\series default
+: 10.1109/ACCESS.2020.3014509
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Sitasi
+\series default
+: 
+\end_layout
+
+\begin_layout Standard
+Pang, Lie Meng, Kai Meng Tay, Chee Peng Lim, and Hisao Ishibuchi.
+ "A New Monotone Fuzzy Rule Relabeling Framework With Application to Failure
+ Mode and Effect Analysis Methodology." IEEE Access, vol.
+ 8, no.
+ 5, 2020, pp.
+ 144908-144930.
+ doi:10.1109/ACCESS.2020.3014509.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Review
+\series default
+: 
+\end_layout
+
+\begin_layout Standard
+Makalah ini mengusulkan kerangka kerja baru untuk pelabelan ulang aturan
+ fuzzy dalam sistem inferensi fuzzy (FIS) Takagi-Sugeno-Kang (TSK) untuk
+ mengembalikan properti monotonitas FIS.
+ Kerangka ini didasarkan pada pendekatan tiga tahap: 
+\end_layout
+
+\begin_layout Enumerate
+Tahap pertama menentukan kombinasi aturan fuzzy yang akan diberi label ulang
+ dengan mengeksploitasi informasi sebelumnya yang berasal dari basis aturan
+ fuzzy non-monoton yang diberikan.
+\end_layout
+
+\begin_layout Enumerate
+Tahap kedua melabel ulang bagian-bagian konsekuen dari beberapa set k aturan
+ fuzzy berisik yang diperoleh dari tahap pertama, sehingga dihasilkan basis
+ aturan fuzzy yang monoton.
+\end_layout
+
+\begin_layout Enumerate
+Tahap ketiga memilih basis aturan fuzzy berlabel ulang yang paling cocok
+ di antara potensi basis aturan fuzzy monoton yang diperoleh dari tahap
+ kedua, baik secara objektif maupun subyektif.
+\end_layout
+
+\begin_layout Standard
+Penulis mengevaluasi kerangka kerja yang diusulkan pada dua masalah FMEA
+ dunia nyata, dan hasilnya menunjukkan bahwa kerangka kerja tersebut mampu
+ secara efektif memulihkan properti monotonitas FIS dengan tetap mempertahankan
+ akurasi yang tinggi.
+\end_layout
+
+\begin_layout Standard
+Paper ini membuat beberapa kontribusi untuk bidang logika fuzzy.
+ Pertama, mengusulkan kerangka kerja baru untuk pelabelan ulang aturan fuzzy
+ dalam TSK-FIS yang lebih efisien daripada metode sebelumnya.
+ Kedua, makalah ini menunjukkan keefektifan kerangka kerja yang diusulkan
+ pada masalah FMEA dunia nyata.
+ Ketiga, makalah ini memberikan wawasan tentang desain basis aturan fuzzy
+ monoton.
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, makalah ini ditulis dengan baik dan kerangka kerja yang
+ diusulkan masuk akal.
+ Hasil percobaan meyakinkan dan kertas membuat kontribusi yang signifikan
+ untuk bidang logika fuzzy.
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa keunggulan paper:
+\end_layout
+
+\begin_layout Enumerate
+Kerangka yang diusulkan lebih efisien daripada metode sebelumnya.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini menunjukkan keefektifan kerangka kerja yang diusulkan pada masalah
+ FMEA dunia nyata.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini memberikan wawasan ke dalam desain basis aturan fuzzy monoton.
+ 
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa kelemahan makalah:
+\end_layout
+
+\begin_layout Enumerate
+Paper ini relatif pendek dan dapat diperluas untuk memasukkan rincian lebih
+ lanjut tentang kerangka kerja yang diusulkan.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini tidak mempertimbangkan masalah konflik aturan dalam proses pelabelan
+ ulang.
+ 
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, makalah ini merupakan kontribusi berharga untuk bidang
+ logika fuzzy.
+ Kerangka yang diusulkan adalah suara dan hasil eksperimen meyakinkan.
+ Makalah ini memberikan wawasan tentang desain basis aturan fuzzy monoton
+ dan merupakan titik awal yang baik bagi peneliti yang tertarik dengan topik
+ ini.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Genetic Algorithm
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\series bold
+Judul
+\series default
+: Optimal Deployment in Emergency Medicine with Genetic Algorithm Exemplified
+ by Lifeguard Assignments.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Authors
+\series default
+: 
+\emph on
+Jonas Chromik and Bert Arnrich.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Journal
+\series default
+: IEEE Engineering in Medicine and Biology Society
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Volume
+\series default
+: 43
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Pages
+\series default
+: 1806-1809
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Tahun
+\series default
+: 2021
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+DOI
+\series default
+: 10.1109/EMBC46164.2021.9629796
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Sitasi
+\series default
+: 
+\end_layout
+
+\begin_layout Standard
+Luong Thi Hong Lan, Tran Manh Tuan, Tran Thi Ngan, Le Hoang Son, Nguyen
+ Long Giang, Vo Truong Nhu Ngoc, and Pham Van Hai.
+ (2022).
+ A systematic literature review on fuzzy inference system algorithms for
+ fault diagnosis in wind turbines.
+ Journal of Renewable and Sustainable Energy, 14(6), 1-23.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Review
+\series default
+:
+\end_layout
+
+\begin_layout Standard
+Paper ini mengusulkan algoritma genetika (GA) untuk penempatan personel
+ yang optimal dalam pengobatan darurat.
+ GA digunakan untuk memecahkan masalah perencanaan tenaga kerja dengan hard
+ dan soft constraint.
+ Kendala kerasnya adalah setiap lokasi harus memiliki staf dengan jumlah
+ personel tertentu, dan kendala lunaknya adalah personel harus ditempatkan
+ di lokasi yang mereka sukai.
+ 
+\end_layout
+
+\begin_layout Standard
+Penulis mengevaluasi GA pada masalah tugas penjaga pantai di dunia nyata.
+ Hasilnya menunjukkan bahwa GA mampu menemukan solusi optimal untuk masalah
+ tersebut dalam waktu yang wajar.
+ 
+\end_layout
+
+\begin_layout Standard
+Paper ini membuat beberapa kontribusi untuk bidang perencanaan tenaga kerja.
+ Pertama, mengusulkan pendekatan berbasis GA baru untuk memecahkan masalah
+ perencanaan tenaga kerja dengan kendala keras dan lunak.
+ Kedua, makalah ini menunjukkan keefektifan pendekatan yang diusulkan pada
+ masalah dunia nyata.
+ Ketiga, makalah ini memberikan wawasan tentang desain GAs untuk masalah
+ perencanaan tenaga kerja.
+ 
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, paper ini ditulis dengan baik dan pendekatan yang diusulkan
+ masuk akal.
+ Hasil percobaan meyakinkan dan makalah memberikan kontribusi yang signifikan
+ terhadap bidang perencanaan tenaga kerja.
+ 
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa keunggulan Paper: 
+\end_layout
+
+\begin_layout Enumerate
+Pendekatan berbasis GA yang diusulkan efektif untuk memecahkan masalah perencana
+an tenaga kerja dengan kendala keras dan lunak.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini menunjukkan efektivitas pendekatan yang diusulkan pada masalah
+ dunia nyata.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini memberikan wawasan tentang desain GAs untuk masalah perencanaan
+ tenaga kerja.
+ 
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa kelemahan paper: 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini relatif singkat dan dapat diperluas untuk memasukkan rincian lebih
+ lanjut tentang GA yang diusulkan.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Paper ini tidak mempertimbangkan masalah keadilan dalam penugasan personel
+ ke lokasi.
+ 
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, paper ini merupakan kontribusi berharga untuk bidang
+ perencanaan tenaga kerja.
+ Pendekatan berbasis GA yang diusulkan efektif dan makalah ini memberikan
+ wawasan tentang desain GA untuk masalah perencanaan tenaga kerja.
+ 
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa pemikiran tambahan pada Paper: 
+\end_layout
+
+\begin_layout Enumerate
+Penulis dapat mempertimbangkan untuk menggunakan algoritme pengoptimalan
+ yang berbeda, seperti algoritme anil yang disimulasikan, untuk memecahkan
+ masalah perencanaan tenaga kerja.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Penulis juga dapat mempertimbangkan untuk menggunakan serangkaian kendala
+ keras dan lunak yang berbeda untuk mengevaluasi keefektifan GA.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Penulis juga dapat mempertimbangkan masalah keadilan dalam penugasan personel
+ ke lokasi.
+ 
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, paper ini merupakan titik awal yang baik bagi para peneliti
+ yang tertarik menggunakan GAs untuk masalah perencanaan tenaga kerja.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Neural Network Algorithm
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\series bold
+Judul
+\series default
+: Mental arithmetic task classification with convolutional neural network
+ based on spectral-temporal features from EEG.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Authors
+\series default
+: 
+\emph on
+Ajra, Z., Xu, B., Dray, G., Montmain, J., & Perrey, S.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Journal
+\series default
+: IEEE Access.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Volume
+\series default
+: 10
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Pages
+\series default
+: 43234--43246
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Tahun
+\series default
+: 2022
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+DOI
+\series default
+: 10.1109/ACCESS.2022.3160073
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Sitasi
+\series default
+: 
+\end_layout
+
+\begin_layout Standard
+Ajra, Zaineb, Binbin Xu, Gérard Dray, Jacky Montmain, and Stéphane Perrey.
+ "Mental arithmetic task classification with convolutional neural network
+ based on spectral-temporal features from EEG." IEEE Access, vol.
+ 10, no.
+ 5, 2022, pp.
+ 43234-43246.
+ doi:10.1109/ACCESS.2022.3160073.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Review
+\series default
+:
+\end_layout
+
+\begin_layout Standard
+Paper ini mengusulkan metode untuk mengklasifikasikan tugas aritmatika mental
+ menggunakan sinyal EEG.
+ Metode pertama mengekstrak fitur spektral-temporal dari sinyal EEG, dan
+ kemudian mengklasifikasikan tugas menggunakan jaringan saraf convolutional
+ (CNN).
+\end_layout
+
+\begin_layout Standard
+Penulis mengevaluasi metode pada dataset sinyal EEG dari 10 subjek yang
+ melakukan empat tugas aritmatika mental yang berbeda.
+ Hasil penelitian menunjukkan bahwa metode tersebut mampu mencapai akurasi
+ sebesar 93,3%.
+\end_layout
+
+\begin_layout Standard
+Makalah ini memberikan beberapa kontribusi pada bidang klasifikasi sinyal
+ EEG.
+ Pertama, mengusulkan metode baru untuk mengekstraksi fitur spektral-temporal
+ dari sinyal EEG.
+ Kedua, menunjukkan bahwa CNN dapat digunakan untuk mengklasifikasikan tugas
+ aritmatika mental dengan akurasi tinggi.
+ Ketiga, ini memberikan tolok ukur untuk mengevaluasi metode klasifikasi
+ sinyal EEG lainnya.
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, makalah ini ditulis dengan baik dan metode yang diusulkan
+ masuk akal.
+ Hasil percobaan meyakinkan dan makalah memberikan kontribusi yang signifikan
+ pada bidang klasifikasi sinyal EEG.
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa keunggulan Paper: 
+\end_layout
+
+\begin_layout Enumerate
+Metode yang diusulkan mampu mencapai akurasi yang tinggi.
+\end_layout
+
+\begin_layout Enumerate
+Metode ini dievaluasi pada dataset sinyal EEG yang besar.
+\end_layout
+
+\begin_layout Enumerate
+Metode tersebut dibandingkan dengan metode klasifikasi sinyal EEG lainnya.
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa kelemahan paper: 
+\end_layout
+
+\begin_layout Enumerate
+Metode ini mahal secara komputasi.
+\end_layout
+
+\begin_layout Enumerate
+Metode ini membutuhkan dataset sinyal EEG yang besar untuk melatih CNN.
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, makalah ini merupakan kontribusi berharga untuk bidang
+ klasifikasi sinyal EEG.
+ Metode yang diusulkan efektif dan makalah ini memberikan tolok ukur untuk
+ mengevaluasi metode klasifikasi sinyal EEG lainnya.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Particle Swarm Optimization Algorithm
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\series bold
+Judul
+\series default
+: Parallel discrete lion swarm optimization algorithm for solving traveling
+ salesman problem.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Authors
+\series default
+: 
+\emph on
+Zhang, D., & Jiang, M.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Journal
+\series default
+: IEEE Access.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Volume
+\series default
+: 9
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Pages
+\series default
+: 1393--1403
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Tahun
+\series default
+: 2021
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+DOI
+\series default
+: 0.1109/ACCESS.2021.3052765
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Sitasi
+\series default
+: 
+\end_layout
+
+\begin_layout Standard
+Zhang, Daoqing, and Jiang Mingyan.
+ "Parallel discrete lion swarm optimization algorithm for solving traveling
+ salesman problem." IEEE Access, vol.
+ 9, no.
+ 1, 2021, pp.
+ 1393-1403.
+ doi:10.1109/ACCESS.2021.3052765.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Review
+\series default
+:
+\end_layout
+
+\begin_layout Standard
+Paper ini mengusulkan sebuah algoritma baru untuk memecahkan masalah salesman
+ keliling (TSP).
+ Algoritma ini didasarkan pada algoritma lion swarm optimization (LSO),
+ yang merupakan algoritma metaheuristik yang terinspirasi dari perilaku
+ berburu singa.
+\end_layout
+
+\begin_layout Standard
+Penulis mengusulkan versi paralel dari algoritma LSO yang dapat digunakan
+ untuk menyelesaikan masalah TSP skala besar.
+ Algoritma paralel diimplementasikan menggunakan library Message Passing
+ Interface (MPI).
+\end_layout
+
+\begin_layout Standard
+Penulis mengevaluasi algoritma paralel LSO pada sekumpulan masalah benchmark
+ TSP.
+ Hasilnya menunjukkan bahwa algoritma paralel LSO mampu menemukan solusi
+ berkualitas tinggi untuk masalah TSP.
+\end_layout
+
+\begin_layout Standard
+Makalah ini membuat beberapa kontribusi untuk bidang optimasi TSP.
+ Pertama, mengusulkan algoritma LSO paralel baru untuk memecahkan masalah
+ TSP.
+ Kedua, makalah ini mengevaluasi algoritma LSO paralel pada serangkaian
+ masalah TSP benchmark.
+ Ketiga, makalah ini menunjukkan bahwa algoritma paralel LSO mampu menemukan
+ solusi berkualitas tinggi untuk masalah TSP.
+ 
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, makalah ini ditulis dengan baik dan algoritme yang diusulkan
+ masuk akal.
+ Hasil percobaan meyakinkan dan makalah memberikan kontribusi yang signifikan
+ terhadap bidang optimasi TSP.
+ 
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa keunggulan Paper: 
+\end_layout
+
+\begin_layout Enumerate
+Algoritma yang diusulkan mampu menemukan solusi berkualitas tinggi untuk
+ masalah TSP.
+\end_layout
+
+\begin_layout Enumerate
+Algoritme ini diparalelkan menggunakan perpustakaan MPI, yang membuatnya
+ cocok untuk memecahkan masalah TSP berskala besar.
+\end_layout
+
+\begin_layout Enumerate
+Algoritme dievaluasi pada serangkaian masalah TSP patokan, yang menunjukkan
+ keefektifannya.
+\end_layout
+
+\begin_layout Standard
+Berikut adalah beberapa kelemahan paper: 
+\end_layout
+
+\begin_layout Enumerate
+Algoritme ini tidak dibandingkan dengan algoritme TSP canggih lainnya.
+\end_layout
+
+\begin_layout Enumerate
+Algoritme tidak diuji pada masalah TSP dunia nyata.
+\end_layout
+
+\begin_layout Standard
+Secara keseluruhan, makalah ini merupakan kontribusi berharga untuk bidang
+ optimasi TSP.
+ Algoritme yang diusulkan efektif dan makalah ini memberikan pendekatan
+ baru untuk memecahkan masalah TSP.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Pseudocode dan contoh pada:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Fuzzy Interference System
+\end_layout
+
+\begin_layout Enumerate
+Genetic Algorithm
+\end_layout
+
+\begin_layout Enumerate
+Neural Network
+\end_layout
+
+\begin_layout Enumerate
+Particle Swarm Optimization
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
